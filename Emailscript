@@ -7,9 +7,7 @@ Option Explicit
 '  1  |   email address         | first & last name | name of company  |    CC Email               |    body of email
 '  2  |arindamdeb3000@gmail.com | Arindam Deb       |   XYZ Corporation|                           |I am writing to alert you of a recent change in company policy...
 '  3  |arindamdeb2000@icloud.com| Deb Arindam       |    Github.com    |  team@gmail.com           |
-'  4  | ccole490@aol.com        | Arindam D         |    United Coal   | Arindamdeb3000@icloud.com |
-
-
+'  4  |Arindamdeb3000@icloud.com| Arindam D         |    United Coal   | Arindamdeb3000@icloud.com |
 
 Sub SendEmail()
 
